@@ -1,0 +1,36 @@
+
+#######IMAGES and stuff
+*.mpeg
+*.mp3
+*.jpeg
+*.jpg
+*.avi
+*.JPG
+*.MOV
+
+######MICROSFOT
+#ignore microsoft office docs and ppts
+*.doc
+*.docx
+*.ppt
+*.pptx
+
+####EMACS
+#backup files
+*~
+
+####LATEX
+# I want to create a good .gitignore file for latex
+# OUTPUT files
+*.pdf
+*.dvi
+# AUTO-GEN SUPPLEMENTARY files
+# every
+*.log
+*.aux
+#TOC/index
+*.toc
+*.idx
+#bib
+*.blg
+*.bbl
